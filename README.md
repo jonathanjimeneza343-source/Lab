@@ -53,7 +53,3 @@ Sigue estos pasos para ejecutar el proyecto de forma local:
 ## ✒️ Autores
 
 * **Tu Nombre** - *Trabajo Inicial* - [TuUsuarioGithub](https://github.com)
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
