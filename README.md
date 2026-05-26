@@ -46,6 +46,14 @@ Sigue estos pasos para ejecutar el proyecto de forma local:
    ```
 
 ## 📋 Requisitos Previos
+
+
+* 111111[Por ejemplo: Node.js versión 18.0 o superior]
+* 111111[Por ejemplo: Node.js versión 18.0 o superior]
+* 111111[Por ejemplo: Node.js versión 18.0 o superior]
+* 111111[Por ejemplo: Node.js versión 18.0 o superior]
+* [Por ejemplo: Node.js versión 18.0 o superior]
+* [Por ejemplo: Node.js versión 18.0 o superior]
 * 3232332345334[Por ejemplo: Node.js versión 18.0 o superior]
 * 3232332345334[Por ejemplo: Gestor de base de datos MySQL]* [Por ejemplo: Node.js versión 18.0 o superior]
 * 3232332345334[Por ejemplo: Gestor de base de datos MySQL]* [Por ejemplo: Node.js versión 18.0 o superior]
